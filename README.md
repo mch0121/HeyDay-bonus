@@ -1,4 +1,3 @@
-# HeyDay-bonus
 
 # Welcome to Hey Day!
 
