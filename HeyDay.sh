@@ -2,7 +2,7 @@
 
 #prompt user to enter name
 
-echo "Enter your name"
+echo "Happy Hey Day!! Please enter your name"
 
 read name
 
